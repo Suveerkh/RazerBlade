@@ -1,5 +1,7 @@
-#aspects {
+#dotted {
   border : 5 dashed red;
-  border-color : MediumSeaGreen;
-  opacity : 0.5
+}
+#aspects {
+  background-color: green;
+  opacity: 0.3;
 }
