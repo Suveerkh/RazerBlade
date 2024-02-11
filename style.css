@@ -1,5 +1,7 @@
 #dotted {
-  border : 5 dashed red;
+  border-width: 5px;
+border-style: dotted;
+border-color: red
 }
 .aspects {
   background-color: green;
