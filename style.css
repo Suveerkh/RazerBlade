@@ -1,3 +1,9 @@
+/* Cursive font for headings. */
 .heading {
      font-family: 'Brush Script MT', cursive;
 }
+
+/* Bg color is jetblack and text color is white. */
+.body {
+     bgcolor: #0A0A0A;
+     text-color: white;
