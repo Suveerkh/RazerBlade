@@ -3,4 +3,12 @@
      font-family: 'Brush Script MT', cursive;
 }
 
+/* Specs of laptop. */
+.specs {
+     font-family: Copperplate, Papyrus, fantasy;
+     border: 5px white;
+     padding: 10px;
+     color: red;
+}
+
 
