@@ -14,7 +14,7 @@
 /* Border for clickable button */
 .click {
   border-style: double;
-  border-color: white;
+  border-color: red;
 }
 /* Make color of link white */
 a{
