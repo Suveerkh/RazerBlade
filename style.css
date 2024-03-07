@@ -21,8 +21,9 @@ a{
      color: white;
 }
 
+/* Color of a visited link is yellow */
 a:visited{
-     color:yellow
+     color:yellow;
 }
 
 
