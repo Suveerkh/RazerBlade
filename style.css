@@ -11,4 +11,10 @@
      color: red;
 }
 
+/* Border for clickable button */
+.click {
+  border-style: double;
+  border-color: white;
+}
+
 
