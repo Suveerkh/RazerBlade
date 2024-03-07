@@ -16,5 +16,9 @@
   border-style: double;
   border-color: white;
 }
+/* Make color of link white */
+a{
+     color: white;
+}
 
 
