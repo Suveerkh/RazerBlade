@@ -21,4 +21,8 @@ a{
      color: white;
 }
 
+a:visited{
+     color:yellow
+}
+
 
